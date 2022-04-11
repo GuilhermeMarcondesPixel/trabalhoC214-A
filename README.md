@@ -2,7 +2,7 @@
 
 # Resumo dos exercícios que foram entregues
 
-## :computer: - Exercicio 1
+## :computer: Trabalho C214-A testes unitários no Angular
 ### Este trabalho foi realizado com o intuito de fazer uma apresentação de testes unitários utilizando o framework jasmine para Angular.js
 
 <head>
