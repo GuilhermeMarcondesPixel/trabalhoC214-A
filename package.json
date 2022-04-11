@@ -1,0 +1,24 @@
+{
+  "name": "trabalhoc214-a",
+  "version": "1.0.0",
+  "description": "Trabalho C214-A de testes unitários",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuilhermeMarcondesPixel/trabalhoC214-A.git"
+  },
+  "author": "Guilherme Marcondes, Vinicius Oliveira, João Lucas e Matheus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuilhermeMarcondesPixel/trabalhoC214-A/issues"
+  },
+  "homepage": "https://github.com/GuilhermeMarcondesPixel/trabalhoC214-A#readme",
+  "devDependencies": {
+    "jasmine": "^4.0.2"
+  },
+  "dependencies": {},
+  "keywords": []
+}
